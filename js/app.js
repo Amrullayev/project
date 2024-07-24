@@ -10,7 +10,6 @@ rt2.addEventListener('click',()=>{
 let all=document.querySelector('.all'),
 boxx=document.querySelector('.huu');
 
-
 all.addEventListener('click',()=>{
     boxx.classList.toggle('hidden2');
 })
